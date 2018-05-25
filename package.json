@@ -1,0 +1,36 @@
+{
+  "name": "react-ssr-hmr",
+  "version": "1.0.0",
+  "description": "React server side rendering with react router, express, styled components",
+  "scripts": {
+    "start:server": "rm -rf ./build && webpack --config  webpack.config.server.js",
+    "start:client": "webpack-dev-server --config webpack.config.client.js",
+    "start": "rm -rf ./.build && npm-run-all --parallel start:server start:client"
+  },
+  "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.1.10",
+    "babel-preset-react": "^6.23.0",
+    "express": "^4.14.1",
+    "npm-run-all": "^4.0.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-helmet": "^5.2.0",
+    "react-hot-loader": "next",
+    "react-loadable": "^5.4.0",
+    "react-router-dom": "^4.2.2",
+    "start-server-webpack-plugin": "^2.1.2",
+    "styled-components": "^3.2.6",
+    "styled-normalize": "^4.0.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1",
+    "webpack-node-externals": "^1.5.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2017": "^6.24.1",
+    "compression-webpack-plugin": "^1.1.11"
+  }
+}
