@@ -1,7 +1,10 @@
 'use strict';
 import http from 'http';
+import Loadable from 'react-loadable';
 import Tree from './TreeReader';
 import app from './server';
+
+const port = 3000;
 const Pages = './common/pages';
 var fs = require('fs');
 
@@ -25,7 +28,11 @@ Tree(Pages, (err, data) => {
   });
 });
 let currentApp = app;
-server.listen(3000);
+Loadable.preloadAll().then(() => {
+  server.listen(port, () => {
+    console.log('Ready to listening of port: ', port);
+  });
+});
 
 if (module.hot) {
   module.hot.accept('./server', () => {

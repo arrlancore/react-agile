@@ -1,7 +1,4 @@
 import React from 'react';
-
-const head = (props) => (
-  <head>{props.children}</head>
-  // <Fragment>{props.children}</Fragment>
-);
+import Helmet from 'react-helmet';
+const head = (props) => <Helmet defer={false}>{props.children}</Helmet>;
 export default head;

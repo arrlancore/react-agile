@@ -2,41 +2,50 @@
 import React from 'react';
 import { hydrate } from 'react-dom';
 import { AppContainer } from 'react-hot-loader';
-import { BrowserRouter } from 'react-router-dom';
+import Loadable from 'react-loadable';
+import { Provider } from 'react-redux';
+import { renderRoutes } from 'react-router-config';
+import BrowserRouter from 'react-router-dom/BrowserRouter';
+import { applyMiddleware, createStore } from 'redux';
+import thunk from 'redux-thunk';
 import App from '../common/App';
-import Contact from '../common/pages/contact';
+import routes from '../common/Routes';
 
-function run() {
+const reducers = {};
+
+const store = createStore(
+  reducers,
+  window.__INITIAL_STATE__,
+  applyMiddleware(thunk),
+);
+
+Loadable.preloadReady().then(() => {
   hydrate(
     <AppContainer>
-      <BrowserRouter>
-        <App />
-      </BrowserRouter>
+      <Provider store={store}>
+        <BrowserRouter>
+          {renderRoutes(routes)}
+          <App />
+        </BrowserRouter>
+      </Provider>
     </AppContainer>,
     document.getElementById('root'),
   );
-
-  if (module.hot) {
+});
+if (module.hot) {
+  Loadable.preloadReady().then(() => {
     module.hot.accept('../common/App', () => {
       hydrate(
         <AppContainer>
-          <BrowserRouter>
-            <App />
-            <Switch>
-              <Route path="/contact" component={Contact} />
-            </Switch>
-          </BrowserRouter>
+          <Provider store={store}>
+            <BrowserRouter>
+              {renderRoutes(routes)}
+              <App />
+            </BrowserRouter>
+          </Provider>
         </AppContainer>,
         document.getElementById('root'),
       );
     });
-  }
-}
-
-const loadedStates = ['complete', 'loaded', 'interactive'];
-
-if (loadedStates.includes(document.readyState) && document.body) {
-  run();
-} else {
-  window.addEventListener('DOMContentLoaded', run, false);
+  });
 }

@@ -1,7 +1,7 @@
 import React from 'react';
-import Helmet from 'react-helmet';
 import styled from 'styled-components';
-import App from '../../../App';
+import App from '../App';
+import Head from '../Head';
 
 const Container = styled.div`
   display: flex;
@@ -17,10 +17,15 @@ const Container = styled.div`
 const Partner = (props) => {
   return (
     <App>
-      <Helmet title="Helmet ku" />
+      <Head defer="false">
+        <title>React Agile - Starting your react quickly</title>
+        <meta
+          name="description"
+          content="React app that ready to use for deploy"
+        />
+      </Head>
       <Container>
-        <p>Get Ready with Styled Components is goo!</p>
-        <a href="/contact">GoooooLink</a>
+        <p>Welcome Home</p>
       </Container>
     </App>
   );

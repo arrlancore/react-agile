@@ -1,7 +1,33 @@
 import React from 'react';
-import Helmet from 'react-helmet';
+import Loadable from 'react-loadable';
 import styled from 'styled-components';
 import App from '../../App';
+import Head from '../../Head';
+
+const LoadableComponent = Loadable({
+  loader: () => import('./input'),
+  loading: () => <Loading />,
+});
+
+function Loading(props) {
+  if (props.error) {
+    return (
+      <div>
+        Error! <button onClick={props.retry}>Retry</button>
+      </div>
+    );
+  } else if (props.timedOut) {
+    return (
+      <div>
+        Taking a long time... <button onClick={props.retry}>Retry</button>
+      </div>
+    );
+  } else if (props.pastDelay) {
+    return <div>Loading...</div>;
+  } else {
+    return null;
+  }
+}
 
 const Container = styled.div`
   display: flex;
@@ -17,9 +43,12 @@ const Container = styled.div`
 const Contact = (props) => {
   return (
     <App>
-      <Helmet title="Contact ku" />
+      <Head>
+        <title>Contact Us</title>
+      </Head>
       <Container>
         <p>Contact Us</p>
+        <LoadableComponent />
       </Container>
     </App>
   );

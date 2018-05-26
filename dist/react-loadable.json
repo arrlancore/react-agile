@@ -1,0 +1,3700 @@
+{
+  "./input": [
+    {
+      "id": "./common/pages/contact/input.js",
+      "name": "./common/pages/contact/input.js",
+      "file": "0.js",
+      "publicPath": "http://localhost:3001/0.js"
+    }
+  ],
+  "./client/index.js": [
+    {
+      "id": "./client/index.js",
+      "name": "./client/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "../common/App": [
+    {
+      "id": "./common/App.js",
+      "name": "./common/App.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./AppRoot": [
+    {
+      "id": "./common/AppRoot.js",
+      "name": "./common/AppRoot.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "../Head": [
+    {
+      "id": "./common/Head.js",
+      "name": "./common/Head.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "../common/Routes": [
+    {
+      "id": "./common/Routes.js",
+      "name": "./common/Routes.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./pages/contact": [
+    {
+      "id": "./common/pages/contact/index.js",
+      "name": "./common/pages/contact/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./pages": [
+    {
+      "id": "./common/pages/index.js",
+      "name": "./common/pages/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "ansi-html": [
+    {
+      "id": "./node_modules/ansi-html/index.js",
+      "name": "./node_modules/ansi-html/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "ansi-regex": [
+    {
+      "id": "./node_modules/ansi-regex/index.js",
+      "name": "./node_modules/ansi-regex/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "deep-equal": [
+    {
+      "id": "./node_modules/deep-equal/index.js",
+      "name": "./node_modules/deep-equal/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib/is_arguments.js": [
+    {
+      "id": "./node_modules/deep-equal/lib/is_arguments.js",
+      "name": "./node_modules/deep-equal/lib/is_arguments.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib/keys.js": [
+    {
+      "id": "./node_modules/deep-equal/lib/keys.js",
+      "name": "./node_modules/deep-equal/lib/keys.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "error-stack-parser": [
+    {
+      "id": "./node_modules/error-stack-parser/error-stack-parser.js",
+      "name": "./node_modules/error-stack-parser/error-stack-parser.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "events": [
+    {
+      "id": "./node_modules/events/events.js",
+      "name": "./node_modules/events/events.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "exenv": [
+    {
+      "id": "./node_modules/exenv/index.js",
+      "name": "./node_modules/exenv/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/emptyFunction": [
+    {
+      "id": "./node_modules/fbjs/lib/emptyFunction.js",
+      "name": "./node_modules/fbjs/lib/emptyFunction.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/node_modules/fbjs/lib/emptyFunction.js",
+      "name": "./node_modules/react/node_modules/fbjs/lib/emptyFunction.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/invariant": [
+    {
+      "id": "./node_modules/fbjs/lib/invariant.js",
+      "name": "./node_modules/fbjs/lib/invariant.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/invariant.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/invariant.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/node_modules/fbjs/lib/invariant.js",
+      "name": "./node_modules/react/node_modules/fbjs/lib/invariant.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/warning": [
+    {
+      "id": "./node_modules/fbjs/lib/warning.js",
+      "name": "./node_modules/fbjs/lib/warning.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/warning.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/warning.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/node_modules/fbjs/lib/warning.js",
+      "name": "./node_modules/react/node_modules/fbjs/lib/warning.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "global": [
+    {
+      "id": "./node_modules/global/window.js",
+      "name": "./node_modules/global/window.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./DOMUtils": [
+    {
+      "id": "./node_modules/history/DOMUtils.js",
+      "name": "./node_modules/history/DOMUtils.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./LocationUtils": [
+    {
+      "id": "./node_modules/history/LocationUtils.js",
+      "name": "./node_modules/history/LocationUtils.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./PathUtils": [
+    {
+      "id": "./node_modules/history/PathUtils.js",
+      "name": "./node_modules/history/PathUtils.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "history/createBrowserHistory": [
+    {
+      "id": "./node_modules/history/createBrowserHistory.js",
+      "name": "./node_modules/history/createBrowserHistory.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./createTransitionManager": [
+    {
+      "id": "./node_modules/history/createTransitionManager.js",
+      "name": "./node_modules/history/createTransitionManager.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "invariant": [
+    {
+      "id": "./node_modules/history/node_modules/invariant/browser.js",
+      "name": "./node_modules/history/node_modules/invariant/browser.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/invariant/browser.js",
+      "name": "./node_modules/invariant/browser.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react-redux/node_modules/invariant/browser.js",
+      "name": "./node_modules/react-redux/node_modules/invariant/browser.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": "./node_modules/hoist-non-react-statics/index.js",
+      "name": "./node_modules/hoist-non-react-statics/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "html-entities": [
+    {
+      "id": "./node_modules/html-entities/index.js",
+      "name": "./node_modules/html-entities/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib/html4-entities.js": [
+    {
+      "id": "./node_modules/html-entities/lib/html4-entities.js",
+      "name": "./node_modules/html-entities/lib/html4-entities.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib/html5-entities.js": [
+    {
+      "id": "./node_modules/html-entities/lib/html5-entities.js",
+      "name": "./node_modules/html-entities/lib/html5-entities.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib/xml-entities.js": [
+    {
+      "id": "./node_modules/html-entities/lib/xml-entities.js",
+      "name": "./node_modules/html-entities/lib/xml-entities.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "import-inspector": [
+    {
+      "id": "./node_modules/import-inspector/index.js",
+      "name": "./node_modules/import-inspector/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "is-plain-object": [
+    {
+      "id": "./node_modules/is-plain-object/index.js",
+      "name": "./node_modules/is-plain-object/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "isobject": [
+    {
+      "id": "./node_modules/isobject/index.js",
+      "name": "./node_modules/isobject/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_Symbol.js": [
+    {
+      "id": "./node_modules/lodash-es/_Symbol.js",
+      "name": "./node_modules/lodash-es/_Symbol.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseGetTag.js": [
+    {
+      "id": "./node_modules/lodash-es/_baseGetTag.js",
+      "name": "./node_modules/lodash-es/_baseGetTag.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_freeGlobal.js": [
+    {
+      "id": "./node_modules/lodash-es/_freeGlobal.js",
+      "name": "./node_modules/lodash-es/_freeGlobal.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_getPrototype.js": [
+    {
+      "id": "./node_modules/lodash-es/_getPrototype.js",
+      "name": "./node_modules/lodash-es/_getPrototype.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_getRawTag.js": [
+    {
+      "id": "./node_modules/lodash-es/_getRawTag.js",
+      "name": "./node_modules/lodash-es/_getRawTag.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_objectToString.js": [
+    {
+      "id": "./node_modules/lodash-es/_objectToString.js",
+      "name": "./node_modules/lodash-es/_objectToString.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_overArg.js": [
+    {
+      "id": "./node_modules/lodash-es/_overArg.js",
+      "name": "./node_modules/lodash-es/_overArg.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_root.js": [
+    {
+      "id": "./node_modules/lodash-es/_root.js",
+      "name": "./node_modules/lodash-es/_root.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isObjectLike.js": [
+    {
+      "id": "./node_modules/lodash-es/isObjectLike.js",
+      "name": "./node_modules/lodash-es/isObjectLike.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "lodash-es/isPlainObject": [
+    {
+      "id": "./node_modules/lodash-es/isPlainObject.js",
+      "name": "./node_modules/lodash-es/isPlainObject.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "loglevel": [
+    {
+      "id": "./node_modules/loglevel/lib/loglevel.js",
+      "name": "./node_modules/loglevel/lib/loglevel.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "object-assign": [
+    {
+      "id": "./node_modules/object-assign/index.js",
+      "name": "./node_modules/object-assign/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "path": [
+    {
+      "id": "./node_modules/path-browserify/index.js",
+      "name": "./node_modules/path-browserify/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./../../process/browser.js": [
+    {
+      "id": "./node_modules/process/browser.js",
+      "name": "./node_modules/process/browser.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./checkPropTypes": [
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "name": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./factoryWithThrowingShims": [
+    {
+      "id": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./factoryWithTypeCheckers": [
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "prop-types": [
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "name": "./node_modules/prop-types/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib/ReactPropTypesSecret": [
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "punycode": [
+    {
+      "id": "./node_modules/punycode/punycode.js",
+      "name": "./node_modules/punycode/punycode.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./decode": [
+    {
+      "id": "./node_modules/querystring-es3/decode.js",
+      "name": "./node_modules/querystring-es3/decode.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./encode": [
+    {
+      "id": "./node_modules/querystring-es3/encode.js",
+      "name": "./node_modules/querystring-es3/encode.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "querystring": [
+    {
+      "id": "./node_modules/querystring-es3/index.js",
+      "name": "./node_modules/querystring-es3/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-deep-force-update": [
+    {
+      "id": "./node_modules/react-deep-force-update/lib/index.js",
+      "name": "./node_modules/react-deep-force-update/lib/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-dom": [
+    {
+      "id": "./node_modules/react-dom/index.js",
+      "name": "./node_modules/react-dom/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ARIADOMPropertyConfig": [
+    {
+      "id": "./node_modules/react-dom/lib/ARIADOMPropertyConfig.js",
+      "name": "./node_modules/react-dom/lib/ARIADOMPropertyConfig.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./AutoFocusUtils": [
+    {
+      "id": "./node_modules/react-dom/lib/AutoFocusUtils.js",
+      "name": "./node_modules/react-dom/lib/AutoFocusUtils.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./BeforeInputEventPlugin": [
+    {
+      "id": "./node_modules/react-dom/lib/BeforeInputEventPlugin.js",
+      "name": "./node_modules/react-dom/lib/BeforeInputEventPlugin.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./CSSProperty": [
+    {
+      "id": "./node_modules/react-dom/lib/CSSProperty.js",
+      "name": "./node_modules/react-dom/lib/CSSProperty.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./CSSPropertyOperations": [
+    {
+      "id": "./node_modules/react-dom/lib/CSSPropertyOperations.js",
+      "name": "./node_modules/react-dom/lib/CSSPropertyOperations.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./CallbackQueue": [
+    {
+      "id": "./node_modules/react-dom/lib/CallbackQueue.js",
+      "name": "./node_modules/react-dom/lib/CallbackQueue.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ChangeEventPlugin": [
+    {
+      "id": "./node_modules/react-dom/lib/ChangeEventPlugin.js",
+      "name": "./node_modules/react-dom/lib/ChangeEventPlugin.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./DOMChildrenOperations": [
+    {
+      "id": "./node_modules/react-dom/lib/DOMChildrenOperations.js",
+      "name": "./node_modules/react-dom/lib/DOMChildrenOperations.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./DOMLazyTree": [
+    {
+      "id": "./node_modules/react-dom/lib/DOMLazyTree.js",
+      "name": "./node_modules/react-dom/lib/DOMLazyTree.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./DOMNamespaces": [
+    {
+      "id": "./node_modules/react-dom/lib/DOMNamespaces.js",
+      "name": "./node_modules/react-dom/lib/DOMNamespaces.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./DOMProperty": [
+    {
+      "id": "./node_modules/react-dom/lib/DOMProperty.js",
+      "name": "./node_modules/react-dom/lib/DOMProperty.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./DOMPropertyOperations": [
+    {
+      "id": "./node_modules/react-dom/lib/DOMPropertyOperations.js",
+      "name": "./node_modules/react-dom/lib/DOMPropertyOperations.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./Danger": [
+    {
+      "id": "./node_modules/react-dom/lib/Danger.js",
+      "name": "./node_modules/react-dom/lib/Danger.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./DefaultEventPluginOrder": [
+    {
+      "id": "./node_modules/react-dom/lib/DefaultEventPluginOrder.js",
+      "name": "./node_modules/react-dom/lib/DefaultEventPluginOrder.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./EnterLeaveEventPlugin": [
+    {
+      "id": "./node_modules/react-dom/lib/EnterLeaveEventPlugin.js",
+      "name": "./node_modules/react-dom/lib/EnterLeaveEventPlugin.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./EventPluginHub": [
+    {
+      "id": "./node_modules/react-dom/lib/EventPluginHub.js",
+      "name": "./node_modules/react-dom/lib/EventPluginHub.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./EventPluginRegistry": [
+    {
+      "id": "./node_modules/react-dom/lib/EventPluginRegistry.js",
+      "name": "./node_modules/react-dom/lib/EventPluginRegistry.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./EventPluginUtils": [
+    {
+      "id": "./node_modules/react-dom/lib/EventPluginUtils.js",
+      "name": "./node_modules/react-dom/lib/EventPluginUtils.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./EventPropagators": [
+    {
+      "id": "./node_modules/react-dom/lib/EventPropagators.js",
+      "name": "./node_modules/react-dom/lib/EventPropagators.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./FallbackCompositionState": [
+    {
+      "id": "./node_modules/react-dom/lib/FallbackCompositionState.js",
+      "name": "./node_modules/react-dom/lib/FallbackCompositionState.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./HTMLDOMPropertyConfig": [
+    {
+      "id": "./node_modules/react-dom/lib/HTMLDOMPropertyConfig.js",
+      "name": "./node_modules/react-dom/lib/HTMLDOMPropertyConfig.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./KeyEscapeUtils": [
+    {
+      "id": "./node_modules/react-dom/lib/KeyEscapeUtils.js",
+      "name": "./node_modules/react-dom/lib/KeyEscapeUtils.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/lib/KeyEscapeUtils.js",
+      "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./LinkedValueUtils": [
+    {
+      "id": "./node_modules/react-dom/lib/LinkedValueUtils.js",
+      "name": "./node_modules/react-dom/lib/LinkedValueUtils.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./PooledClass": [
+    {
+      "id": "./node_modules/react-dom/lib/PooledClass.js",
+      "name": "./node_modules/react-dom/lib/PooledClass.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/lib/PooledClass.js",
+      "name": "./node_modules/react/lib/PooledClass.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactBrowserEventEmitter": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactBrowserEventEmitter.js",
+      "name": "./node_modules/react-dom/lib/ReactBrowserEventEmitter.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactChildReconciler": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactChildReconciler.js",
+      "name": "./node_modules/react-dom/lib/ReactChildReconciler.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactComponentBrowserEnvironment": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactComponentBrowserEnvironment.js",
+      "name": "./node_modules/react-dom/lib/ReactComponentBrowserEnvironment.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactComponentEnvironment": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactComponentEnvironment.js",
+      "name": "./node_modules/react-dom/lib/ReactComponentEnvironment.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactCompositeComponent": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactCompositeComponent.js",
+      "name": "./node_modules/react-dom/lib/ReactCompositeComponent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib/ReactDOM": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOM.js",
+      "name": "./node_modules/react-dom/lib/ReactDOM.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMComponent": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMComponent.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMComponent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMComponentFlags": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMComponentFlags.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMComponentFlags.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMComponentTree": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMComponentTree.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMComponentTree.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMContainerInfo": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMContainerInfo.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMContainerInfo.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMEmptyComponent": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMEmptyComponent.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMEmptyComponent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMFeatureFlags": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMFeatureFlags.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMFeatureFlags.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMIDOperations": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMIDOperations.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMIDOperations.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMInput": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMInput.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMInput.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMInvalidARIAHook": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMInvalidARIAHook.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMInvalidARIAHook.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMNullInputValuePropHook": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMNullInputValuePropHook.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMNullInputValuePropHook.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMOption": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMOption.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMOption.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMSelect": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMSelect.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMSelect.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMSelection": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMSelection.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMSelection.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMTextComponent": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMTextComponent.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMTextComponent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMTextarea": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMTextarea.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMTextarea.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMTreeTraversal": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMTreeTraversal.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMTreeTraversal.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMUnknownPropertyHook": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDOMUnknownPropertyHook.js",
+      "name": "./node_modules/react-dom/lib/ReactDOMUnknownPropertyHook.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDebugTool": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDebugTool.js",
+      "name": "./node_modules/react-dom/lib/ReactDebugTool.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDefaultBatchingStrategy": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDefaultBatchingStrategy.js",
+      "name": "./node_modules/react-dom/lib/ReactDefaultBatchingStrategy.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDefaultInjection": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactDefaultInjection.js",
+      "name": "./node_modules/react-dom/lib/ReactDefaultInjection.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactElementSymbol": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactElementSymbol.js",
+      "name": "./node_modules/react-dom/lib/ReactElementSymbol.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/lib/ReactElementSymbol.js",
+      "name": "./node_modules/react/lib/ReactElementSymbol.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactEmptyComponent": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactEmptyComponent.js",
+      "name": "./node_modules/react-dom/lib/ReactEmptyComponent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactErrorUtils": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactErrorUtils.js",
+      "name": "./node_modules/react-dom/lib/ReactErrorUtils.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactEventEmitterMixin": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactEventEmitterMixin.js",
+      "name": "./node_modules/react-dom/lib/ReactEventEmitterMixin.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactEventListener": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactEventListener.js",
+      "name": "./node_modules/react-dom/lib/ReactEventListener.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactFeatureFlags": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactFeatureFlags.js",
+      "name": "./node_modules/react-dom/lib/ReactFeatureFlags.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactHostComponent": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactHostComponent.js",
+      "name": "./node_modules/react-dom/lib/ReactHostComponent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactHostOperationHistoryHook": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactHostOperationHistoryHook.js",
+      "name": "./node_modules/react-dom/lib/ReactHostOperationHistoryHook.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactInjection": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactInjection.js",
+      "name": "./node_modules/react-dom/lib/ReactInjection.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactInputSelection": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactInputSelection.js",
+      "name": "./node_modules/react-dom/lib/ReactInputSelection.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactInstanceMap": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactInstanceMap.js",
+      "name": "./node_modules/react-dom/lib/ReactInstanceMap.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactInstrumentation": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactInstrumentation.js",
+      "name": "./node_modules/react-dom/lib/ReactInstrumentation.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactInvalidSetStateWarningHook": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactInvalidSetStateWarningHook.js",
+      "name": "./node_modules/react-dom/lib/ReactInvalidSetStateWarningHook.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactMarkupChecksum": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactMarkupChecksum.js",
+      "name": "./node_modules/react-dom/lib/ReactMarkupChecksum.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactMount": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactMount.js",
+      "name": "./node_modules/react-dom/lib/ReactMount.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactMultiChild": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactMultiChild.js",
+      "name": "./node_modules/react-dom/lib/ReactMultiChild.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactNodeTypes": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactNodeTypes.js",
+      "name": "./node_modules/react-dom/lib/ReactNodeTypes.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactOwner": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactOwner.js",
+      "name": "./node_modules/react-dom/lib/ReactOwner.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactPropTypeLocationNames": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactPropTypeLocationNames.js",
+      "name": "./node_modules/react-dom/lib/ReactPropTypeLocationNames.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/lib/ReactPropTypeLocationNames.js",
+      "name": "./node_modules/react/lib/ReactPropTypeLocationNames.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactPropTypesSecret": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactPropTypesSecret.js",
+      "name": "./node_modules/react-dom/lib/ReactPropTypesSecret.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/lib/ReactPropTypesSecret.js",
+      "name": "./node_modules/react/lib/ReactPropTypesSecret.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactReconcileTransaction": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactReconcileTransaction.js",
+      "name": "./node_modules/react-dom/lib/ReactReconcileTransaction.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactReconciler": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactReconciler.js",
+      "name": "./node_modules/react-dom/lib/ReactReconciler.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactRef": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactRef.js",
+      "name": "./node_modules/react-dom/lib/ReactRef.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactServerRenderingTransaction": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactServerRenderingTransaction.js",
+      "name": "./node_modules/react-dom/lib/ReactServerRenderingTransaction.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactServerUpdateQueue": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactServerUpdateQueue.js",
+      "name": "./node_modules/react-dom/lib/ReactServerUpdateQueue.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactUpdateQueue": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactUpdateQueue.js",
+      "name": "./node_modules/react-dom/lib/ReactUpdateQueue.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactUpdates": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactUpdates.js",
+      "name": "./node_modules/react-dom/lib/ReactUpdates.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactVersion": [
+    {
+      "id": "./node_modules/react-dom/lib/ReactVersion.js",
+      "name": "./node_modules/react-dom/lib/ReactVersion.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/lib/ReactVersion.js",
+      "name": "./node_modules/react/lib/ReactVersion.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SVGDOMPropertyConfig": [
+    {
+      "id": "./node_modules/react-dom/lib/SVGDOMPropertyConfig.js",
+      "name": "./node_modules/react-dom/lib/SVGDOMPropertyConfig.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SelectEventPlugin": [
+    {
+      "id": "./node_modules/react-dom/lib/SelectEventPlugin.js",
+      "name": "./node_modules/react-dom/lib/SelectEventPlugin.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SimpleEventPlugin": [
+    {
+      "id": "./node_modules/react-dom/lib/SimpleEventPlugin.js",
+      "name": "./node_modules/react-dom/lib/SimpleEventPlugin.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticAnimationEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticAnimationEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticAnimationEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticClipboardEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticClipboardEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticClipboardEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticCompositionEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticCompositionEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticCompositionEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "undefined": [
+    {
+      "id": 0,
+      "name": null,
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/webpack/hot ^\\.\\/log$",
+      "name": "./node_modules/webpack/hot ^\\.\\/log$",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticDragEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticDragEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticDragEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticFocusEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticFocusEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticFocusEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticInputEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticInputEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticInputEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticKeyboardEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticKeyboardEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticKeyboardEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticMouseEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticMouseEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticMouseEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticTouchEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticTouchEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticTouchEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticTransitionEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticTransitionEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticTransitionEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticUIEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticUIEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticUIEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./SyntheticWheelEvent": [
+    {
+      "id": "./node_modules/react-dom/lib/SyntheticWheelEvent.js",
+      "name": "./node_modules/react-dom/lib/SyntheticWheelEvent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./Transaction": [
+    {
+      "id": "./node_modules/react-dom/lib/Transaction.js",
+      "name": "./node_modules/react-dom/lib/Transaction.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ViewportMetrics": [
+    {
+      "id": "./node_modules/react-dom/lib/ViewportMetrics.js",
+      "name": "./node_modules/react-dom/lib/ViewportMetrics.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./accumulateInto": [
+    {
+      "id": "./node_modules/react-dom/lib/accumulateInto.js",
+      "name": "./node_modules/react-dom/lib/accumulateInto.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./adler32": [
+    {
+      "id": "./node_modules/react-dom/lib/adler32.js",
+      "name": "./node_modules/react-dom/lib/adler32.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./checkReactTypeSpec": [
+    {
+      "id": "./node_modules/react-dom/lib/checkReactTypeSpec.js",
+      "name": "./node_modules/react-dom/lib/checkReactTypeSpec.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/lib/checkReactTypeSpec.js",
+      "name": "./node_modules/react/lib/checkReactTypeSpec.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./createMicrosoftUnsafeLocalFunction": [
+    {
+      "id": "./node_modules/react-dom/lib/createMicrosoftUnsafeLocalFunction.js",
+      "name": "./node_modules/react-dom/lib/createMicrosoftUnsafeLocalFunction.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./dangerousStyleValue": [
+    {
+      "id": "./node_modules/react-dom/lib/dangerousStyleValue.js",
+      "name": "./node_modules/react-dom/lib/dangerousStyleValue.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./escapeTextContentForBrowser": [
+    {
+      "id": "./node_modules/react-dom/lib/escapeTextContentForBrowser.js",
+      "name": "./node_modules/react-dom/lib/escapeTextContentForBrowser.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./findDOMNode": [
+    {
+      "id": "./node_modules/react-dom/lib/findDOMNode.js",
+      "name": "./node_modules/react-dom/lib/findDOMNode.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./flattenChildren": [
+    {
+      "id": "./node_modules/react-dom/lib/flattenChildren.js",
+      "name": "./node_modules/react-dom/lib/flattenChildren.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./forEachAccumulated": [
+    {
+      "id": "./node_modules/react-dom/lib/forEachAccumulated.js",
+      "name": "./node_modules/react-dom/lib/forEachAccumulated.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getEventCharCode": [
+    {
+      "id": "./node_modules/react-dom/lib/getEventCharCode.js",
+      "name": "./node_modules/react-dom/lib/getEventCharCode.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getEventKey": [
+    {
+      "id": "./node_modules/react-dom/lib/getEventKey.js",
+      "name": "./node_modules/react-dom/lib/getEventKey.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getEventModifierState": [
+    {
+      "id": "./node_modules/react-dom/lib/getEventModifierState.js",
+      "name": "./node_modules/react-dom/lib/getEventModifierState.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getEventTarget": [
+    {
+      "id": "./node_modules/react-dom/lib/getEventTarget.js",
+      "name": "./node_modules/react-dom/lib/getEventTarget.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getHostComponentFromComposite": [
+    {
+      "id": "./node_modules/react-dom/lib/getHostComponentFromComposite.js",
+      "name": "./node_modules/react-dom/lib/getHostComponentFromComposite.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getIteratorFn": [
+    {
+      "id": "./node_modules/react-dom/lib/getIteratorFn.js",
+      "name": "./node_modules/react-dom/lib/getIteratorFn.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/lib/getIteratorFn.js",
+      "name": "./node_modules/react/lib/getIteratorFn.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getNextDebugID": [
+    {
+      "id": "./node_modules/react-dom/lib/getNextDebugID.js",
+      "name": "./node_modules/react-dom/lib/getNextDebugID.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getNodeForCharacterOffset": [
+    {
+      "id": "./node_modules/react-dom/lib/getNodeForCharacterOffset.js",
+      "name": "./node_modules/react-dom/lib/getNodeForCharacterOffset.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getTextContentAccessor": [
+    {
+      "id": "./node_modules/react-dom/lib/getTextContentAccessor.js",
+      "name": "./node_modules/react-dom/lib/getTextContentAccessor.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getVendorPrefixedEventName": [
+    {
+      "id": "./node_modules/react-dom/lib/getVendorPrefixedEventName.js",
+      "name": "./node_modules/react-dom/lib/getVendorPrefixedEventName.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./instantiateReactComponent": [
+    {
+      "id": "./node_modules/react-dom/lib/instantiateReactComponent.js",
+      "name": "./node_modules/react-dom/lib/instantiateReactComponent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isEventSupported": [
+    {
+      "id": "./node_modules/react-dom/lib/isEventSupported.js",
+      "name": "./node_modules/react-dom/lib/isEventSupported.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isTextInputElement": [
+    {
+      "id": "./node_modules/react-dom/lib/isTextInputElement.js",
+      "name": "./node_modules/react-dom/lib/isTextInputElement.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./quoteAttributeValueForBrowser": [
+    {
+      "id": "./node_modules/react-dom/lib/quoteAttributeValueForBrowser.js",
+      "name": "./node_modules/react-dom/lib/quoteAttributeValueForBrowser.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./reactProdInvariant": [
+    {
+      "id": "./node_modules/react-dom/lib/reactProdInvariant.js",
+      "name": "./node_modules/react-dom/lib/reactProdInvariant.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/lib/reactProdInvariant.js",
+      "name": "./node_modules/react/lib/reactProdInvariant.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./renderSubtreeIntoContainer": [
+    {
+      "id": "./node_modules/react-dom/lib/renderSubtreeIntoContainer.js",
+      "name": "./node_modules/react-dom/lib/renderSubtreeIntoContainer.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./setInnerHTML": [
+    {
+      "id": "./node_modules/react-dom/lib/setInnerHTML.js",
+      "name": "./node_modules/react-dom/lib/setInnerHTML.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./setTextContent": [
+    {
+      "id": "./node_modules/react-dom/lib/setTextContent.js",
+      "name": "./node_modules/react-dom/lib/setTextContent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./shouldUpdateReactComponent": [
+    {
+      "id": "./node_modules/react-dom/lib/shouldUpdateReactComponent.js",
+      "name": "./node_modules/react-dom/lib/shouldUpdateReactComponent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./traverseAllChildren": [
+    {
+      "id": "./node_modules/react-dom/lib/traverseAllChildren.js",
+      "name": "./node_modules/react-dom/lib/traverseAllChildren.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/lib/traverseAllChildren.js",
+      "name": "./node_modules/react/lib/traverseAllChildren.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./validateDOMNesting": [
+    {
+      "id": "./node_modules/react-dom/lib/validateDOMNesting.js",
+      "name": "./node_modules/react-dom/lib/validateDOMNesting.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/EventListener": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/EventListener.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/EventListener.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/ExecutionEnvironment": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/ExecutionEnvironment.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/ExecutionEnvironment.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./camelize": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/camelize.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/camelize.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/camelizeStyleName": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/camelizeStyleName.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/camelizeStyleName.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/containsNode": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/containsNode.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/containsNode.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./createArrayFromMixed": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/createArrayFromMixed.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/createArrayFromMixed.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/createNodesFromMarkup": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/createNodesFromMarkup.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/createNodesFromMarkup.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./emptyFunction": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/emptyFunction.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/emptyFunction.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/emptyObject": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/emptyObject.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/emptyObject.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    },
+    {
+      "id": "./node_modules/react/node_modules/fbjs/lib/emptyObject.js",
+      "name": "./node_modules/react/node_modules/fbjs/lib/emptyObject.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/focusNode": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/focusNode.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/focusNode.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/getActiveElement": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/getActiveElement.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/getActiveElement.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./getMarkupWrap": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/getMarkupWrap.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/getMarkupWrap.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/getUnboundedScrollPosition": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/getUnboundedScrollPosition.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/getUnboundedScrollPosition.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./hyphenate": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/hyphenate.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/hyphenate.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/hyphenateStyleName": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/hyphenateStyleName.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/hyphenateStyleName.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isNode": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/isNode.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/isNode.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isTextNode": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/isTextNode.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/isTextNode.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/memoizeStringOnly": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/memoizeStringOnly.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/memoizeStringOnly.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./performance": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/performance.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/performance.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/performanceNow": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/performanceNow.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/performanceNow.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "fbjs/lib/shallowEqual": [
+    {
+      "id": "./node_modules/react-dom/node_modules/fbjs/lib/shallowEqual.js",
+      "name": "./node_modules/react-dom/node_modules/fbjs/lib/shallowEqual.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-helmet": [
+    {
+      "id": "./node_modules/react-helmet/lib/Helmet.js",
+      "name": "./node_modules/react-helmet/lib/Helmet.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./HelmetConstants.js": [
+    {
+      "id": "./node_modules/react-helmet/lib/HelmetConstants.js",
+      "name": "./node_modules/react-helmet/lib/HelmetConstants.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./HelmetUtils.js": [
+    {
+      "id": "./node_modules/react-helmet/lib/HelmetUtils.js",
+      "name": "./node_modules/react-helmet/lib/HelmetUtils.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-hot-loader": [
+    {
+      "id": "./node_modules/react-hot-loader/index.js",
+      "name": "./node_modules/react-hot-loader/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./AppContainer.dev": [
+    {
+      "id": "./node_modules/react-hot-loader/lib/AppContainer.dev.js",
+      "name": "./node_modules/react-hot-loader/lib/AppContainer.dev.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./AppContainer": [
+    {
+      "id": "./node_modules/react-hot-loader/lib/AppContainer.js",
+      "name": "./node_modules/react-hot-loader/lib/AppContainer.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./AppContainer.prod": [
+    {
+      "id": "./node_modules/react-hot-loader/lib/AppContainer.prod.js",
+      "name": "./node_modules/react-hot-loader/lib/AppContainer.prod.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib/index": [
+    {
+      "id": "./node_modules/react-hot-loader/lib/index.js",
+      "name": "./node_modules/react-hot-loader/lib/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./patch.dev": [
+    {
+      "id": "./node_modules/react-hot-loader/lib/patch.dev.js",
+      "name": "./node_modules/react-hot-loader/lib/patch.dev.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib/patch": [
+    {
+      "id": "./node_modules/react-hot-loader/lib/patch.js",
+      "name": "./node_modules/react-hot-loader/lib/patch.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./patch.prod": [
+    {
+      "id": "./node_modules/react-hot-loader/lib/patch.prod.js",
+      "name": "./node_modules/react-hot-loader/lib/patch.prod.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-hot-loader/patch": [
+    {
+      "id": "./node_modules/react-hot-loader/patch.js",
+      "name": "./node_modules/react-hot-loader/patch.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./cjs/react-is.development.js": [
+    {
+      "id": "./node_modules/react-is/cjs/react-is.development.js",
+      "name": "./node_modules/react-is/cjs/react-is.development.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./cjs/react-is.production.min.js": [
+    {
+      "id": "./node_modules/react-is/cjs/react-is.production.min.js",
+      "name": "./node_modules/react-is/cjs/react-is.production.min.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-is": [
+    {
+      "id": "./node_modules/react-is/index.js",
+      "name": "./node_modules/react-is/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-loadable": [
+    {
+      "id": "./node_modules/react-loadable/lib/index.js",
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./bindAutoBindMethods": [
+    {
+      "id": "./node_modules/react-proxy/modules/bindAutoBindMethods.js",
+      "name": "./node_modules/react-proxy/modules/bindAutoBindMethods.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./createClassProxy": [
+    {
+      "id": "./node_modules/react-proxy/modules/createClassProxy.js",
+      "name": "./node_modules/react-proxy/modules/createClassProxy.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./createPrototypeProxy": [
+    {
+      "id": "./node_modules/react-proxy/modules/createPrototypeProxy.js",
+      "name": "./node_modules/react-proxy/modules/createPrototypeProxy.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./deleteUnknownAutoBindMethods": [
+    {
+      "id": "./node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js",
+      "name": "./node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-proxy": [
+    {
+      "id": "./node_modules/react-proxy/modules/index.js",
+      "name": "./node_modules/react-proxy/modules/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./supportsProtoAssignment": [
+    {
+      "id": "./node_modules/react-proxy/modules/supportsProtoAssignment.js",
+      "name": "./node_modules/react-proxy/modules/supportsProtoAssignment.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_DataView": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_DataView.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_DataView.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_Hash": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_Hash.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_Hash.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_ListCache": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_ListCache.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_ListCache.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_Map": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_Map.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_Map.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_MapCache": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_MapCache.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_MapCache.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_Promise": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_Promise.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_Promise.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_Set": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_Set.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_Set.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_SetCache": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_SetCache.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_SetCache.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_Stack": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_Stack.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_Stack.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_Symbol": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_Symbol.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_Symbol.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_Uint8Array": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_Uint8Array.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_Uint8Array.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_WeakMap": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_WeakMap.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_WeakMap.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_apply": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_apply.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_apply.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_arrayFilter": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_arrayFilter.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_arrayFilter.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_arrayIncludes": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_arrayIncludes.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_arrayIncludes.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_arrayIncludesWith": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_arrayIncludesWith.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_arrayIncludesWith.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_arrayLikeKeys": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_arrayLikeKeys.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_arrayLikeKeys.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_arrayMap": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_arrayMap.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_arrayMap.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_arrayPush": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_arrayPush.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_arrayPush.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_arraySome": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_arraySome.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_arraySome.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_assignValue": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_assignValue.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_assignValue.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_assocIndexOf": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_assocIndexOf.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_assocIndexOf.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseAssignValue": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseAssignValue.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseAssignValue.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseDifference": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseDifference.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseDifference.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseFindIndex": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseFindIndex.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseFindIndex.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseFlatten": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseFlatten.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseFlatten.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseGet": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseGet.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseGet.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseGetAllKeys": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseGetAllKeys.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseGetAllKeys.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseGetTag": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseGetTag.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseGetTag.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseHasIn": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseHasIn.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseHasIn.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseIndexOf": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseIndexOf.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseIndexOf.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseIsArguments": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseIsArguments.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseIsArguments.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseIsEqual": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseIsEqual.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseIsEqual.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseIsEqualDeep": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseIsEqualDeep.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseIsEqualDeep.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseIsMatch": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseIsMatch.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseIsMatch.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseIsNaN": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseIsNaN.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseIsNaN.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseIsNative": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseIsNative.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseIsNative.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseIsTypedArray": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseIsTypedArray.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseIsTypedArray.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseIteratee": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseIteratee.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseIteratee.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseKeys": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseKeys.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseKeys.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseMatches": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseMatches.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseMatches.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseMatchesProperty": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseMatchesProperty.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseMatchesProperty.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseProperty": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseProperty.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseProperty.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_basePropertyDeep": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_basePropertyDeep.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_basePropertyDeep.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseRest": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseRest.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseRest.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseSetToString": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseSetToString.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseSetToString.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseTimes": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseTimes.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseTimes.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseToString": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseToString.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseToString.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_baseUnary": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_baseUnary.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_baseUnary.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_cacheHas": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_cacheHas.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_cacheHas.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_castPath": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_castPath.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_castPath.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_copyObject": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_copyObject.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_copyObject.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_coreJsData": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_coreJsData.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_coreJsData.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_createAssigner": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_createAssigner.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_createAssigner.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_createFind": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_createFind.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_createFind.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_defineProperty": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_defineProperty.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_defineProperty.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_equalArrays": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_equalArrays.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_equalArrays.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_equalByTag": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_equalByTag.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_equalByTag.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_equalObjects": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_equalObjects.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_equalObjects.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_freeGlobal": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_freeGlobal.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_freeGlobal.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_getAllKeys": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_getAllKeys.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_getAllKeys.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_getMapData": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_getMapData.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_getMapData.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_getMatchData": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_getMatchData.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_getMatchData.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_getNative": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_getNative.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_getNative.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_getRawTag": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_getRawTag.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_getRawTag.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_getSymbols": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_getSymbols.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_getSymbols.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_getTag": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_getTag.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_getTag.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_getValue": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_getValue.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_getValue.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_hasPath": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_hasPath.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_hasPath.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_hashClear": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_hashClear.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_hashClear.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_hashDelete": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_hashDelete.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_hashDelete.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_hashGet": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_hashGet.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_hashGet.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_hashHas": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_hashHas.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_hashHas.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_hashSet": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_hashSet.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_hashSet.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_isFlattenable": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_isFlattenable.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_isFlattenable.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_isIndex": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_isIndex.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_isIndex.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_isIterateeCall": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_isIterateeCall.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_isIterateeCall.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_isKey": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_isKey.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_isKey.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_isKeyable": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_isKeyable.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_isKeyable.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_isMasked": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_isMasked.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_isMasked.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_isPrototype": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_isPrototype.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_isPrototype.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_isStrictComparable": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_isStrictComparable.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_isStrictComparable.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_listCacheClear": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_listCacheClear.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_listCacheClear.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_listCacheDelete": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_listCacheDelete.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_listCacheDelete.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_listCacheGet": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_listCacheGet.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_listCacheGet.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_listCacheHas": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_listCacheHas.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_listCacheHas.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_listCacheSet": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_listCacheSet.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_listCacheSet.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_mapCacheClear": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_mapCacheClear.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_mapCacheClear.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_mapCacheDelete": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_mapCacheDelete.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_mapCacheDelete.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_mapCacheGet": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_mapCacheGet.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_mapCacheGet.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_mapCacheHas": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_mapCacheHas.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_mapCacheHas.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_mapCacheSet": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_mapCacheSet.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_mapCacheSet.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_mapToArray": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_mapToArray.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_mapToArray.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_matchesStrictComparable": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_matchesStrictComparable.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_matchesStrictComparable.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_memoizeCapped": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_memoizeCapped.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_memoizeCapped.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_nativeCreate": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_nativeCreate.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_nativeCreate.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_nativeKeys": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_nativeKeys.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_nativeKeys.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_nodeUtil": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_nodeUtil.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_nodeUtil.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_objectToString": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_objectToString.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_objectToString.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_overArg": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_overArg.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_overArg.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_overRest": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_overRest.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_overRest.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_root": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_root.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_root.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_setCacheAdd": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_setCacheAdd.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_setCacheAdd.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_setCacheHas": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_setCacheHas.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_setCacheHas.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_setToArray": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_setToArray.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_setToArray.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_setToString": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_setToString.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_setToString.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_shortOut": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_shortOut.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_shortOut.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_stackClear": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_stackClear.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_stackClear.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_stackDelete": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_stackDelete.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_stackDelete.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_stackGet": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_stackGet.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_stackGet.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_stackHas": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_stackHas.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_stackHas.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_stackSet": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_stackSet.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_stackSet.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_strictIndexOf": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_strictIndexOf.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_strictIndexOf.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_stringToPath": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_stringToPath.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_stringToPath.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_toKey": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_toKey.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_toKey.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./_toSource": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/_toSource.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/_toSource.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "lodash/assign": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/assign.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/assign.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./constant": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/constant.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/constant.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "lodash/difference": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/difference.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/difference.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./eq": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/eq.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/eq.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "lodash/find": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/find.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/find.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./findIndex": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/findIndex.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/findIndex.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./get": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/get.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/get.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./hasIn": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/hasIn.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/hasIn.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./identity": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/identity.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/identity.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isArguments": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isArguments.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isArguments.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isArray": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isArray.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isArray.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isArrayLike": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isArrayLike.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isArrayLike.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isArrayLikeObject": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isArrayLikeObject.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isArrayLikeObject.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isBuffer": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isBuffer.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isBuffer.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isFunction": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isFunction.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isFunction.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isLength": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isLength.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isLength.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isObject": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isObject.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isObject.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isObjectLike": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isObjectLike.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isObjectLike.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isSymbol": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isSymbol.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isSymbol.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./isTypedArray": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/isTypedArray.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/isTypedArray.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./keys": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/keys.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/keys.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./memoize": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/memoize.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/memoize.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./property": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/property.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/property.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./stubArray": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/stubArray.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/stubArray.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./stubFalse": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/stubFalse.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/stubFalse.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./toFinite": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/toFinite.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/toFinite.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./toInteger": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/toInteger.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/toInteger.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./toNumber": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/toNumber.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/toNumber.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./toString": [
+    {
+      "id": "./node_modules/react-proxy/node_modules/lodash/toString.js",
+      "name": "./node_modules/react-proxy/node_modules/lodash/toString.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./components/Provider": [
+    {
+      "id": "./node_modules/react-redux/es/components/Provider.js",
+      "name": "./node_modules/react-redux/es/components/Provider.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./components/connectAdvanced": [
+    {
+      "id": "./node_modules/react-redux/es/components/connectAdvanced.js",
+      "name": "./node_modules/react-redux/es/components/connectAdvanced.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./connect/connect": [
+    {
+      "id": "./node_modules/react-redux/es/connect/connect.js",
+      "name": "./node_modules/react-redux/es/connect/connect.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./mapDispatchToProps": [
+    {
+      "id": "./node_modules/react-redux/es/connect/mapDispatchToProps.js",
+      "name": "./node_modules/react-redux/es/connect/mapDispatchToProps.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./mapStateToProps": [
+    {
+      "id": "./node_modules/react-redux/es/connect/mapStateToProps.js",
+      "name": "./node_modules/react-redux/es/connect/mapStateToProps.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./mergeProps": [
+    {
+      "id": "./node_modules/react-redux/es/connect/mergeProps.js",
+      "name": "./node_modules/react-redux/es/connect/mergeProps.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./selectorFactory": [
+    {
+      "id": "./node_modules/react-redux/es/connect/selectorFactory.js",
+      "name": "./node_modules/react-redux/es/connect/selectorFactory.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./verifySubselectors": [
+    {
+      "id": "./node_modules/react-redux/es/connect/verifySubselectors.js",
+      "name": "./node_modules/react-redux/es/connect/verifySubselectors.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./wrapMapToProps": [
+    {
+      "id": "./node_modules/react-redux/es/connect/wrapMapToProps.js",
+      "name": "./node_modules/react-redux/es/connect/wrapMapToProps.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-redux": [
+    {
+      "id": "./node_modules/react-redux/es/index.js",
+      "name": "./node_modules/react-redux/es/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "../utils/PropTypes": [
+    {
+      "id": "./node_modules/react-redux/es/utils/PropTypes.js",
+      "name": "./node_modules/react-redux/es/utils/PropTypes.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "../utils/Subscription": [
+    {
+      "id": "./node_modules/react-redux/es/utils/Subscription.js",
+      "name": "./node_modules/react-redux/es/utils/Subscription.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "../utils/shallowEqual": [
+    {
+      "id": "./node_modules/react-redux/es/utils/shallowEqual.js",
+      "name": "./node_modules/react-redux/es/utils/shallowEqual.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "../utils/verifyPlainObject": [
+    {
+      "id": "./node_modules/react-redux/es/utils/verifyPlainObject.js",
+      "name": "./node_modules/react-redux/es/utils/verifyPlainObject.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "../utils/warning": [
+    {
+      "id": "./node_modules/react-redux/es/utils/warning.js",
+      "name": "./node_modules/react-redux/es/utils/warning.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-router-config": [
+    {
+      "id": "./node_modules/react-router-config/es/index.js",
+      "name": "./node_modules/react-router-config/es/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./matchRoutes": [
+    {
+      "id": "./node_modules/react-router-config/es/matchRoutes.js",
+      "name": "./node_modules/react-router-config/es/matchRoutes.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./renderRoutes": [
+    {
+      "id": "./node_modules/react-router-config/es/renderRoutes.js",
+      "name": "./node_modules/react-router-config/es/renderRoutes.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-router-dom/BrowserRouter": [
+    {
+      "id": "./node_modules/react-router-dom/BrowserRouter.js",
+      "name": "./node_modules/react-router-dom/BrowserRouter.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-router-dom/Link": [
+    {
+      "id": "./node_modules/react-router-dom/Link.js",
+      "name": "./node_modules/react-router-dom/Link.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./Router": [
+    {
+      "id": "./node_modules/react-router-dom/Router.js",
+      "name": "./node_modules/react-router-dom/Router.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-router/Route": [
+    {
+      "id": "./node_modules/react-router/Route.js",
+      "name": "./node_modules/react-router/Route.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-router/Router": [
+    {
+      "id": "./node_modules/react-router/Router.js",
+      "name": "./node_modules/react-router/Router.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-router/Switch": [
+    {
+      "id": "./node_modules/react-router/Switch.js",
+      "name": "./node_modules/react-router/Switch.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-router/matchPath": [
+    {
+      "id": "./node_modules/react-router/matchPath.js",
+      "name": "./node_modules/react-router/matchPath.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "isarray": [
+    {
+      "id": "./node_modules/react-router/node_modules/isarray/index.js",
+      "name": "./node_modules/react-router/node_modules/isarray/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "path-to-regexp": [
+    {
+      "id": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
+      "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react-side-effect": [
+    {
+      "id": "./node_modules/react-side-effect/lib/index.js",
+      "name": "./node_modules/react-side-effect/lib/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib/React": [
+    {
+      "id": "./node_modules/react/lib/React.js",
+      "name": "./node_modules/react/lib/React.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactChildren": [
+    {
+      "id": "./node_modules/react/lib/ReactChildren.js",
+      "name": "./node_modules/react/lib/ReactChildren.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactClass": [
+    {
+      "id": "./node_modules/react/lib/ReactClass.js",
+      "name": "./node_modules/react/lib/ReactClass.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactComponent": [
+    {
+      "id": "./node_modules/react/lib/ReactComponent.js",
+      "name": "./node_modules/react/lib/ReactComponent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactComponentTreeHook": [
+    {
+      "id": "./node_modules/react/lib/ReactComponentTreeHook.js",
+      "name": "./node_modules/react/lib/ReactComponentTreeHook.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactCurrentOwner": [
+    {
+      "id": "./node_modules/react/lib/ReactCurrentOwner.js",
+      "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactDOMFactories": [
+    {
+      "id": "./node_modules/react/lib/ReactDOMFactories.js",
+      "name": "./node_modules/react/lib/ReactDOMFactories.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactElement": [
+    {
+      "id": "./node_modules/react/lib/ReactElement.js",
+      "name": "./node_modules/react/lib/ReactElement.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactElementValidator": [
+    {
+      "id": "./node_modules/react/lib/ReactElementValidator.js",
+      "name": "./node_modules/react/lib/ReactElementValidator.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactNoopUpdateQueue": [
+    {
+      "id": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+      "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactPropTypes": [
+    {
+      "id": "./node_modules/react/lib/ReactPropTypes.js",
+      "name": "./node_modules/react/lib/ReactPropTypes.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ReactPureComponent": [
+    {
+      "id": "./node_modules/react/lib/ReactPureComponent.js",
+      "name": "./node_modules/react/lib/ReactPureComponent.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./canDefineProperty": [
+    {
+      "id": "./node_modules/react/lib/canDefineProperty.js",
+      "name": "./node_modules/react/lib/canDefineProperty.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./onlyChild": [
+    {
+      "id": "./node_modules/react/lib/onlyChild.js",
+      "name": "./node_modules/react/lib/onlyChild.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "react": [
+    {
+      "id": "./node_modules/react/react.js",
+      "name": "./node_modules/react/react.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "redbox-react": [
+    {
+      "id": "./node_modules/redbox-react/lib/index.js",
+      "name": "./node_modules/redbox-react/lib/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./lib": [
+    {
+      "id": "./node_modules/redbox-react/lib/lib.js",
+      "name": "./node_modules/redbox-react/lib/lib.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./style.js": [
+    {
+      "id": "./node_modules/redbox-react/lib/style.js",
+      "name": "./node_modules/redbox-react/lib/style.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "redux-thunk": [
+    {
+      "id": "./node_modules/redux-thunk/lib/index.js",
+      "name": "./node_modules/redux-thunk/lib/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "redux": [
+    {
+      "id": "./node_modules/redux/es/redux.js",
+      "name": "./node_modules/redux/es/redux.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "resolve-pathname": [
+    {
+      "id": "./node_modules/resolve-pathname/index.js",
+      "name": "./node_modules/resolve-pathname/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "shallowequal": [
+    {
+      "id": "./node_modules/shallowequal/index.js",
+      "name": "./node_modules/shallowequal/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "sockjs-client/dist/sockjs": [
+    {
+      "id": "./node_modules/sockjs-client/dist/sockjs.js",
+      "name": "./node_modules/sockjs-client/dist/sockjs.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "stackframe": [
+    {
+      "id": "./node_modules/stackframe/stackframe.js",
+      "name": "./node_modules/stackframe/stackframe.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "strip-ansi": [
+    {
+      "id": "./node_modules/strip-ansi/index.js",
+      "name": "./node_modules/strip-ansi/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "styled-components": [
+    {
+      "id": "./node_modules/styled-components/dist/styled-components.browser.es.js",
+      "name": "./node_modules/styled-components/dist/styled-components.browser.es.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "styled-normalize": [
+    {
+      "id": "./node_modules/styled-normalize/dist/index.js",
+      "name": "./node_modules/styled-normalize/dist/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "stylis-rule-sheet": [
+    {
+      "id": "./node_modules/stylis-rule-sheet/index.js",
+      "name": "./node_modules/stylis-rule-sheet/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "stylis": [
+    {
+      "id": "./node_modules/stylis/stylis.js",
+      "name": "./node_modules/stylis/stylis.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "symbol-observable": [
+    {
+      "id": "./node_modules/symbol-observable/es/index.js",
+      "name": "./node_modules/symbol-observable/es/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./ponyfill.js": [
+    {
+      "id": "./node_modules/symbol-observable/es/ponyfill.js",
+      "name": "./node_modules/symbol-observable/es/ponyfill.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "url": [
+    {
+      "id": "./node_modules/url/url.js",
+      "name": "./node_modules/url/url.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./util": [
+    {
+      "id": "./node_modules/url/util.js",
+      "name": "./node_modules/url/util.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "value-equal": [
+    {
+      "id": "./node_modules/value-equal/index.js",
+      "name": "./node_modules/value-equal/index.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "warning": [
+    {
+      "id": "./node_modules/warning/browser.js",
+      "name": "./node_modules/warning/browser.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "C:\\Users\\arlan\\xcidic\\learn\\react-ssr-hmr\\node_modules\\webpack-dev-server\\client\\index.js?http://localhost:3001": [
+    {
+      "id": "./node_modules/webpack-dev-server/client/index.js?http:/localhost:3001",
+      "name": "./node_modules/webpack-dev-server/client/index.js?http:/localhost:3001",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./overlay": [
+    {
+      "id": "./node_modules/webpack-dev-server/client/overlay.js",
+      "name": "./node_modules/webpack-dev-server/client/overlay.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./socket": [
+    {
+      "id": "./node_modules/webpack-dev-server/client/socket.js",
+      "name": "./node_modules/webpack-dev-server/client/socket.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./../webpack/buildin/global.js": [
+    {
+      "id": "./node_modules/webpack/buildin/global.js",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./../../webpack/buildin/harmony-module.js": [
+    {
+      "id": "./node_modules/webpack/buildin/harmony-module.js",
+      "name": "./node_modules/webpack/buildin/harmony-module.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./../webpack/buildin/module.js": [
+    {
+      "id": "./node_modules/webpack/buildin/module.js",
+      "name": "./node_modules/webpack/buildin/module.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "webpack/hot/dev-server": [
+    {
+      "id": "./node_modules/webpack/hot/dev-server.js",
+      "name": "./node_modules/webpack/hot/dev-server.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./emitter": [
+    {
+      "id": "./node_modules/webpack/hot/emitter.js",
+      "name": "./node_modules/webpack/hot/emitter.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./log-apply-result": [
+    {
+      "id": "./node_modules/webpack/hot/log-apply-result.js",
+      "name": "./node_modules/webpack/hot/log-apply-result.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "./log": [
+    {
+      "id": "./node_modules/webpack/hot/log.js",
+      "name": "./node_modules/webpack/hot/log.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ],
+  "webpack/hot/only-dev-server": [
+    {
+      "id": "./node_modules/webpack/hot/only-dev-server.js",
+      "name": "./node_modules/webpack/hot/only-dev-server.js",
+      "file": "vendor.js",
+      "publicPath": "http://localhost:3001/vendor.js"
+    }
+  ]
+}

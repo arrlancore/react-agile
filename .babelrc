@@ -1,3 +1,12 @@
 {
-  "presets": [["env", { "modules": false }], "react", "es2017"]
+  "presets": [["env", { "modules": false }], "react", "es2017"],
+  "plugins": [
+    "syntax-dynamic-import",
+    [
+      "import-inspector",
+      {
+        "serverSideRequirePath": true
+      }
+    ]
+  ]
 }
