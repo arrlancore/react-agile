@@ -1,7 +1,7 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import styled from 'styled-components';
-import App from '../../../App';
+import App from '../../App';
 
 const Container = styled.div`
   display: flex;
@@ -14,16 +14,15 @@ const Container = styled.div`
   background: linear-gradient(20deg, rgb(219, 112, 147), #daa357);
 `;
 
-const Partner = (props) => {
+const Contact = (props) => {
   return (
     <App>
-      <Helmet title="Helmet ku" />
+      <Helmet title="Contact ku" />
       <Container>
-        <p>Get Ready with Styled Components is goo!</p>
-        <a href="/contact">GoooooLink</a>
+        <p>Contact Us</p>
       </Container>
     </App>
   );
 };
 
-export default Partner;
+export default Contact;

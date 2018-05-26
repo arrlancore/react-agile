@@ -2,11 +2,12 @@
 import express from 'express';
 import React from 'react';
 import { renderToString } from 'react-dom/server';
+import Helmet from 'react-helmet';
 import { ServerStyleSheet } from 'styled-components'; // <-- importing ServerStyleSheet
 import Html from '../common/Html';
-import PartnerHead from '../common/pages/about/partner/head';
 import Partner from '../common/pages/about/partner/index';
 
+const head = Helmet.rewind();
 const getStyle = async () => {
   const sheet = new ServerStyleSheet();
   const styles = await sheet.getStyleTags(); // <-- getting all the tags from the sheet
@@ -25,10 +26,8 @@ app.get('*.js', function(req, res, next) {
 
 app.get('*', (req, res) => {
   let application = renderToString(<Partner />);
-  getStyle().then((data) => {
-    res.send(
-      Html(application, data, PartnerHead).replace(/(\r\n\t|\n|\r\t)/gm, ''),
-    );
+  getStyle().then((style) => {
+    res.send(Html(application, style, head).replace(/(\r\n\t|\n|\r\t)/gm, ''));
   });
 });
 

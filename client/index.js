@@ -1,22 +1,31 @@
 'use strict';
 import React from 'react';
-import { render } from 'react-dom';
+import { hydrate } from 'react-dom';
 import { AppContainer } from 'react-hot-loader';
+import { BrowserRouter } from 'react-router-dom';
 import App from '../common/App';
+import Contact from '../common/pages/contact';
 
 function run() {
-  render(
+  hydrate(
     <AppContainer>
-      <App />
+      <BrowserRouter>
+        <App />
+      </BrowserRouter>
     </AppContainer>,
     document.getElementById('root'),
   );
 
   if (module.hot) {
     module.hot.accept('../common/App', () => {
-      render(
+      hydrate(
         <AppContainer>
-          <App />
+          <BrowserRouter>
+            <App />
+            <Switch>
+              <Route path="/contact" component={Contact} />
+            </Switch>
+          </BrowserRouter>
         </AppContainer>,
         document.getElementById('root'),
       );

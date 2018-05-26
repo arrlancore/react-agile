@@ -8,7 +8,7 @@ module.exports = {
     'react-hot-loader/patch',
     'webpack-dev-server/client?http://localhost:3001',
     'webpack/hot/only-dev-server',
-    './client/index',
+    './client/',
   ],
   target: 'web',
   module: {
