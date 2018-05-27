@@ -1,10 +1,11 @@
 'use strict';
 import express from 'express';
 import React from 'react';
-import { renderToString } from 'react-dom/server';
+import ReactDOMServer from 'react-dom/server';
 import Helmet from 'react-helmet';
 import Loadable from 'react-loadable';
 import { getBundles } from 'react-loadable/webpack';
+import { Provider } from 'react-redux';
 import { matchRoutes, renderRoutes } from 'react-router-config';
 import StaticRouter from 'react-router-dom/StaticRouter';
 import { applyMiddleware, createStore } from 'redux';
@@ -14,7 +15,6 @@ import Html from '../common/Html';
 import routes from '../common/Routes';
 import reducers from '../common/modules';
 import stats from '../dist/react-loadable.json';
-
 /*eslint-disable*/
 const router = express.Router();
 /*eslint-enable*/
@@ -51,24 +51,27 @@ app.get('*', (req, res) => {
     return { styles, head, promises };
   };
 
-  const content = renderToString(
-    <Loadable.Capture report={(moduleName) => modules.push(moduleName)}>
-      <StaticRouter location={req.url} context={context}>
-        {renderRoutes(routes)}
-      </StaticRouter>
-    </Loadable.Capture>,
+  const content = ReactDOMServer.renderToStaticMarkup(
+    <Provider store={store}>
+      <Loadable.Capture report={(moduleName) => modules.push(moduleName)}>
+        <StaticRouter location={req.url} context={context}>
+          {renderRoutes(routes)}
+        </StaticRouter>
+      </Loadable.Capture>
+    </Provider>,
   );
+  if (context.status === 404) {
+    res.status(404);
+  }
+  if (context.status === 302) {
+    return res.redirect(302, context.url);
+  }
   getHead().then((headAttr) => {
-    console.log('headAttr: ', headAttr.promises);
-    console.log('store.getState(): ', store.getState());
     let bundles = getBundles(stats, modules);
-    res.send(Html(content, headAttr.styles, headAttr.head, bundles));
+    let contents = Html(content, headAttr.styles, headAttr.head, bundles);
+    res.set({ data: store.getState() });
+    res.send(contents);
   });
 });
 
 export default app;
-
-// .replace(
-//   /(\r\n\t|\n|\r\t)/gm,
-//   '',
-// )

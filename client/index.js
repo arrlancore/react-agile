@@ -1,6 +1,6 @@
 'use strict';
 import React from 'react';
-import { render } from 'react-dom';
+import ReactDOM from 'react-dom';
 import { AppContainer } from 'react-hot-loader';
 import Loadable from 'react-loadable';
 import { Provider } from 'react-redux';
@@ -16,9 +16,8 @@ const store = createStore(
   window.__INITIAL_STATE__,
   applyMiddleware(thunk),
 );
-
 Loadable.preloadReady().then(() => {
-  render(
+  ReactDOM.hydrate(
     <AppContainer>
       <Provider store={store}>
         <BrowserRouter>{renderRoutes(routes)}</BrowserRouter>
@@ -30,7 +29,7 @@ Loadable.preloadReady().then(() => {
 if (module.hot) {
   Loadable.preloadReady().then(() => {
     module.hot.accept('../common/App', () => {
-      render(
+      ReactDOM.hydrate(
         <AppContainer>
           <Provider store={store}>
             <BrowserRouter>{renderRoutes(routes)}</BrowserRouter>

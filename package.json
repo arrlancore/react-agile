@@ -36,7 +36,7 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-helmet": "^5.2.0",
-    "react-hot-loader": "next",
+    "react-hot-loader": "^4.2.0",
     "react-loadable": "^5.4.0",
     "react-redux": "^5.0.7",
     "react-router-config": "^1.0.0-beta.4",

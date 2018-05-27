@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-// import { fetchUsers } from '../../modules/users';
+import { fetchUsers } from '../../modules/users';
 
 class List extends Component {
   static fetchData(store) {
-    console.log('store: ', store);
+    console.log('fetch');
     return store.dispatch(fetchUsers());
   }
 
