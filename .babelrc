@@ -3,6 +3,12 @@
   "plugins": [
     "syntax-dynamic-import",
     [
+      "babel-plugin-styled-components",
+      {
+        "ssr": true
+      }
+    ],
+    [
       "import-inspector",
       {
         "serverSideRequirePath": true

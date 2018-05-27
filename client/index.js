@@ -1,6 +1,6 @@
 'use strict';
 import React from 'react';
-import { hydrate } from 'react-dom';
+import { render } from 'react-dom';
 import { AppContainer } from 'react-hot-loader';
 import Loadable from 'react-loadable';
 import { Provider } from 'react-redux';
@@ -8,10 +8,8 @@ import { renderRoutes } from 'react-router-config';
 import BrowserRouter from 'react-router-dom/BrowserRouter';
 import { applyMiddleware, createStore } from 'redux';
 import thunk from 'redux-thunk';
-import App from '../common/App';
 import routes from '../common/Routes';
-
-const reducers = {};
+import reducers from '../common/modules';
 
 const store = createStore(
   reducers,
@@ -20,13 +18,10 @@ const store = createStore(
 );
 
 Loadable.preloadReady().then(() => {
-  hydrate(
+  render(
     <AppContainer>
       <Provider store={store}>
-        <BrowserRouter>
-          {renderRoutes(routes)}
-          <App />
-        </BrowserRouter>
+        <BrowserRouter>{renderRoutes(routes)}</BrowserRouter>
       </Provider>
     </AppContainer>,
     document.getElementById('root'),
@@ -35,13 +30,10 @@ Loadable.preloadReady().then(() => {
 if (module.hot) {
   Loadable.preloadReady().then(() => {
     module.hot.accept('../common/App', () => {
-      hydrate(
+      render(
         <AppContainer>
           <Provider store={store}>
-            <BrowserRouter>
-              {renderRoutes(routes)}
-              <App />
-            </BrowserRouter>
+            <BrowserRouter>{renderRoutes(routes)}</BrowserRouter>
           </Provider>
         </AppContainer>,
         document.getElementById('root'),

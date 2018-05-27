@@ -3,6 +3,7 @@ import Loadable from 'react-loadable';
 import styled from 'styled-components';
 import App from '../../App';
 import Head from '../../Head';
+import List from './list';
 
 const LoadableComponent = Loadable({
   loader: () => import('./input'),
@@ -30,13 +31,7 @@ function Loading(props) {
 }
 
 const Container = styled.div`
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  font-size: 40px;
+  display: block;
   background: linear-gradient(20deg, rgb(219, 112, 147), #daa357);
 `;
 
@@ -48,6 +43,7 @@ const Contact = (props) => {
       </Head>
       <Container>
         <p>Contact Us</p>
+        <List />
         <LoadableComponent />
       </Container>
     </App>
